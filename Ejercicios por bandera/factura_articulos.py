@@ -26,3 +26,4 @@ while continuar:
 
 print(f"El monto total de la factura es : ${factura}")
 print("Adiós...")
+
